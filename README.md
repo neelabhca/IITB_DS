@@ -1,2 +1,2 @@
 # IITB_DS
-datascinse for Python with IITB
+data science for Python with IITB
